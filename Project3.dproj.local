@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.959,E:\delphi\Project3.dproj=E:\delphi\tz_omsk\Project3.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.451,E:\delphi\Unit3.dfm=E:\delphi\tz_omsk\Unit3.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.451,E:\delphi\Unit3.pas=E:\delphi\tz_omsk\Unit3.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.972,=E:\delphi\Unit3.pas</Transaction>
+  </Transactions>
+</BorlandProject>
